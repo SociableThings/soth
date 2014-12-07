@@ -1,0 +1,29 @@
+{
+  "name": "deidarax",
+  "version": "0.1.0",
+  "description": "Platform for IoT",
+  "main": "deidarax.js",
+  "dependencies": {
+    "socket.io": "^1.2.1"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.0.1"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/deidarax/deidarax.git"
+  },
+  "keywords": [
+    "iot"
+  ],
+  "author": "Hideyuki TAKEI <takehide22+deidarax@gmail.com>",
+  "license": "Apache License Version 2.0",
+  "bugs": {
+    "url": "https://github.com/deidarax/deidarax/issues"
+  },
+  "homepage": "http://deidarax.com"
+}

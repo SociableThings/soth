@@ -1,6 +1,3 @@
 machine:
   node:
     version: 0.11.13
-dependencies:
-  override:
-    - npm install --dev

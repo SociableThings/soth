@@ -6,7 +6,7 @@
 [![Circle CI](https://circleci.com/gh/sociable-things/soth.svg?style=svg)](https://circleci.com/gh/sociable-things/soth)
 
 
-## What's Deidarax?
+## What's Soth?
 
 Let it go...
 

@@ -1,10 +1,9 @@
-# Deidarax
+# Soth: Platform for Sociable Things
 
 ======
 
-[![npm package](https://img.shields.io/npm/v/deidarax.svg)](https://www.npmjs.org/package/deidarax)
-[![dependency status](https://img.shields.io/david/deidarax/deidarax.svg)](https://david-dm.org/deidarax/deidarax)
-[![Circle CI](https://circleci.com/gh/deidarax/deidarax.svg?style=svg)](https://circleci.com/gh/deidarax/deidarax)
+[![npm package](https://img.shields.io/npm/v/soth.svg)](https://www.npmjs.org/package/soth)
+[![Circle CI](https://circleci.com/gh/sociable-things/soth.svg?style=svg)](https://circleci.com/gh/sociable-things/soth)
 
 
 ## What's Deidarax?
@@ -17,13 +16,13 @@ Let it go...
 Using [npm](https://www.npmjs.org/):
 
 ```
-$ npm install deidarax
+$ npm install soth
 ```
 
 
 ## Issues
 
-Please file issues on the [issue tracker on GitHub](https://github.com/deidarax/deidarax/issues).
+Please file issues on the [issue tracker on GitHub](https://github.com/sociable-things/soth/issues).
 
 
 ## Tests
@@ -38,4 +37,4 @@ $ npm test
 
 ## License
 
-Deidarax is released under the Apache License, Version 2.0. See [LICENSE](https://github.com/deidarax/deidarax/blob/master/LICENSE).
+Soth is released under the Apache License, Version 2.0. See [LICENSE](https://github.com/sociable-things/soth/blob/master/LICENSE).

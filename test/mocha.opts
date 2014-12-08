@@ -1,4 +1,6 @@
+--require test/mocha.inject.js
 --reporter spec
+--recursive
 --ui bdd
 --timeout 3000
 --growl

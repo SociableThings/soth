@@ -1,8 +1,8 @@
 {
-  "name": "deidarax",
+  "name": "soth",
   "version": "0.1.0",
-  "description": "Deidarax Client",
-  "main": "deidarax.js",
+  "description": "Soth Client",
+  "main": "soth.js",
   "dependencies": {
     "socket.io": "^1.2.1",
     "socket.io-client": "^1.2.1"
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com/deidarax/deidarax.git"
+    "url": "ssh://git@github.com/sociable-things/soth.git"
   },
   "keywords": [
     "iot",
@@ -29,10 +29,10 @@
     "make",
     "hardware"
   ],
-  "author": "Hideyuki TAKEI <takehide22+deidarax@gmail.com>",
+  "author": "Hideyuki TAKEI <takehide22+soth@gmail.com>",
   "license": "Apache License Version 2.0",
   "bugs": {
-    "url": "https://github.com/deidarax/deidarax/issues"
+    "url": "https://github.com/sociable-things/soth/issues"
   },
-  "homepage": "https://github.com/deidarax/deidarax"
+  "homepage": "https://github.com/sociable-things/soth"
 }

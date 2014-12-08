@@ -4,7 +4,8 @@
   "description": "Deidarax Client",
   "main": "deidarax.js",
   "dependencies": {
-    "socket.io": "^1.2.1"
+    "socket.io": "^1.2.1",
+    "socket.io-client": "^1.2.1"
   },
   "devDependencies": {
     "expect": "^1.1.0",
@@ -19,7 +20,14 @@
     "url": "ssh://git@github.com/deidarax/deidarax.git"
   },
   "keywords": [
-    "iot", "m2m", "pubsub", "database", "analytics", "raspberrypi", "make", "hardware"
+    "iot",
+    "m2m",
+    "pubsub",
+    "database",
+    "analytics",
+    "raspberrypi",
+    "make",
+    "hardware"
   ],
   "author": "Hideyuki TAKEI <takehide22+deidarax@gmail.com>",
   "license": "Apache License Version 2.0",

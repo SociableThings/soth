@@ -1,9 +1,9 @@
 var expect = require('expect');
-var deidarax = require('../deidarax.js');
+var soth = require('../soth.js');
 
 describe('add', function(){
   it('1 + 1 = 2', function(){
-    var result = deidarax.add(1, 1);
+    var result = soth.add(1, 1);
     expect(result).toBe(2);
   });
 });
